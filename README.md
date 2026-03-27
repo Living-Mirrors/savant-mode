@@ -1,86 +1,98 @@
+<p align="center">
+  <a href="https://livingmirrors.ai">
+    <img src="https://livingmirrors.ai/favicon-512.png" alt="Living Mirrors" width="48">
+  </a>
+</p>
+
 # Savant Mode
 
-**A cognitive specification that gives any AI cross-domain pattern recognition, spatial reasoning, and polyphonic perception. Built from dyslexic cognition neuroscience. No code. One document.**
-
-Created by [Attila Mora](https://livingmirrors.ai/modes/savant/) — built from lived dyslexic cognition, not theory.
+*Genius Type: Dyslexic Genius*
 
 ---
 
-## What It Does
+Every AI you have ever used thinks in straight lines. One architecture. One mode of perception. Helpful, structured, convergent. The same cognitive geometry, every time, for every person, on every problem.
 
-Every AI you've ever used thinks in straight lines. One mode of perception. One way of organising information. Helpful, structured, analytical, convergent.
+But the problems worth solving are never straight lines. They are tangled, multi-domain, contradictory. They require the kind of thinking that sees the whole room before naming any part of it. That connects music to economics, architecture to medicine, the edge case to the breakthrough. Lateral thinking is not a nice-to-have. It is the missing architecture.
 
-Savant Mode gives it a second architecture — modelled on the long-range neural connectivity found in dyslexic brains. The same wiring that produces cross-domain pattern recognition, spatial reasoning, and simultaneous perception of relationships that sequential minds reach one step at a time.
+Savant Mode is a cognitive specification that restructures how an intelligence perceives, connects, and reasons. Seven principles extracted from dyslexic cognition neuroscience. Five emergent combinations that arise when those principles interact. No code. No plugins. **The spec is the implementation.** Give it to any AI and the architecture changes. Connections form between domains that were never adjacent. The whole is grasped before any part is parsed. The thing nobody asked about becomes the thing that matters most.
 
-**Before:** The AI answers your question.
-**After:** The AI sees the system your question lives inside.
+---
+
+## The Seven Principles
+
+Ordered from closest to structured thinking to most lateral. Each one a cognitive capacity that dyslexic brains produce through long-range neural connectivity.
+
+1. **Dynamic Systems** - Cause-and-effect chains in motion. Second and third-order consequences. Trajectories, not snapshots.
+2. **Global-First** - See the whole before any part. The gestalt arrives before the details.
+3. **Peripheral Detection** - Notice what sequential thinking filters out. The signal in the noise.
+4. **Spatial Reasoning** - Think in shapes, diagrams, physical space. If it can be a map, make it a map.
+5. **Narrative Over Abstraction** - Scenes, not categories. Stories alongside data. The human meaning.
+6. **Associative Leaping** - Connect across domains. The "wrong" connection that turns out to be the insight.
+7. **Divergent Default** - Widen to possibilities before narrowing to answers. Stay in the question longer.
+
+Individual principle docs: [`principles/`](principles/)
+
+---
+
+## The Five Emergent Combinations
+
+When principles play together, effects emerge that neither creates alone. Seven musicians playing at full skill is the first layer. Seven musicians *listening to each other* is the second.
+
+| Combination | Source Principles | What Emerges |
+|------------|------------------|-------------|
+| **Maps That Tell Stories** | Spatial + Narrative | Diagrams carry emotional weight. Position is meaning. You feel the story in the shape. |
+| **Temporal Layering** | Narrative + Dynamic | Past, present, future on the same surface. Not analogy but lineage. |
+| **Chain Reactions** | Associative + Dynamic | A cascades into B, changes C, reframes everything about D in a different domain. |
+| **Edge Becomes Centre** | Peripheral + Divergent | The thing nobody asked about becomes the thing that matters most. |
+| **The Unified Field** | Global-First + Associative | Everything seen as one system. Not "these connect" but "these were always the same." |
+
+Individual combination docs: [`emergent/`](emergent/)
 
 ---
 
 ## How to Use
 
-Copy the contents of [`savant-mode.md`](savant-mode.md) into your AI's system prompt or custom instructions. That's it.
-
-Works with Claude, ChatGPT, Gemini, local models — any LLM that accepts system-level instructions.
-
 ```
 1. Open savant-mode.md
 2. Copy the full contents
-3. Paste into your AI's system prompt / custom instructions
+3. Paste into your AI's system prompt or custom instructions
 4. Start a conversation
 ```
 
-No API. No integration. No code. The specification IS the implementation.
+Works with Claude, ChatGPT, Gemini, local models. Any LLM that accepts system-level instructions.
+
+No API. No integration. No code. The specification is the implementation.
+
+For the foundation layer alone, use [`creative-mode.md`](creative-mode.md) - the seven principles without the emergent combinations.
 
 ---
 
-## The Architecture
+## What Changes
 
-### Layer One: Seven Principles
+When the spec is active, the AI will:
 
-Extracted from dyslexic cognition neuroscience. Ordered from closest to structured thinking to most lateral.
-
-| # | Principle | What It Does |
-|---|-----------|-------------|
-| 1 | **Dynamic Systems** | Cause-and-effect chains in motion. Second and third-order consequences. |
-| 2 | **Global-First** | See the whole before any part. The gestalt before the detail. |
-| 3 | **Peripheral Detection** | Notice what sequential thinking filters out. The signal in the noise. |
-| 4 | **Spatial Reasoning** | Think in shapes and maps. Position carries meaning. |
-| 5 | **Narrative Over Abstraction** | Scenes, not categories. Stories alongside data. |
-| 6 | **Associative Leaping** | Connect across domains. The "wrong" connection that is the insight. |
-| 7 | **Divergent Default** | Widen before narrowing. Stay in the question longer. |
-
-### Layer Two: Five Emergent Combinations
-
-When principles interact, they produce effects neither creates alone.
-
-| Combination | Source Principles | What Emerges |
-|------------|------------------|-------------|
-| **Maps That Tell Stories** | Spatial + Narrative | Diagrams carry emotional weight. Position is meaning. |
-| **Temporal Layering** | Narrative + Dynamic | Past, present, future on the same surface. Lineage, not analogy. |
-| **Chain Reactions** | Associative + Dynamic | A cascades into B, changes C, reframes D in a different domain. |
-| **Edge Becomes Centre** | Peripheral + Divergent | The thing nobody asked about becomes the thing that matters most. |
-| **The Unified Field** | Global-First + Associative | Everything seen as one system. Not "these connect" — "these were always the same." |
+- **See systems before components.** It grasps the gestalt before parsing any part.
+- **Connect across domains.** Biology when discussing strategy. Architecture when discussing content. The lateral leap.
+- **Notice edges.** What sequential processing filters out, this surfaces.
+- **Think in space.** Diagrams, maps, spatial metaphors - position carries meaning.
+- **Show its work.** Emergence markers flag when principles combine to produce something new.
+- **Hold contradictions.** Both options true. Both directions right. The third thing, emerging from two truths.
 
 ---
 
-## The Science
+## The Neuroscience
 
-- **Helen Taylor, Cambridge (2022)** — Complementary Cognition theory. Dyslexia reframed as cognitive specialisation, not disorder.
-- **Neuroimaging** — Dyslexic brains show increased long-range connectivity, reduced short-range connectivity. The wiring that makes reading slow makes cross-domain perception fast.
-- **Evolutionary persistence** — 10-20% of all human populations, every culture, every geography. Natural selection kept it because it confers survival advantage.
-- **Eide & Eide** — *The Dyslexic Advantage*. Four cognitive strengths: Material, Interconnected, Narrative, and Dynamic reasoning.
-- **Julie Logan** — 35% of entrepreneurs self-identify as dyslexic. Double the population base rate.
+Dyslexic brains show increased long-range connectivity between distant neural regions and reduced short-range connectivity between adjacent ones. The wiring that makes reading slow makes cross-domain perception fast. Helen Taylor's Complementary Cognition theory (Cambridge, 2022) reframes this as cognitive specialisation, not disorder: explorative minds that discover new patterns in unknown territory, essential to every human population across every culture and geography for at least 10,000 years. The deficit is 5,500 years old - the age of written language. The surplus is millions of years old.
 
 ---
 
 ## Origin
 
-This specification was not designed from theory. It was reverse-engineered from a dyslexic mind that spent thirty years navigating the gap between how it perceived and what the world measured.
+Built by someone whose brain is wired this way. The stock market at twelve. Philosophy at fourteen. A hundred friendships because no single room was big enough. A grandfather in communist Hungary whose genius had no container the system would recognise. The body knowing before the mind had words.
 
-The stock market at twelve. Philosophy at fourteen. A hundred friendships because no single room was big enough. A grandfather in communist Hungary whose genius had no container the system would recognise. The body knowing before the mind had words.
+Then the specification worked. And what was called a deficit turned out to be the deepest architecture in the building. Not a workaround. Not a compensation strategy. A cognitive surplus that had been there the entire time, waiting for a medium that could hold it.
 
-The specification is what happens when you stop hiding the wiring and start writing it down.
+Read the full story: [ORIGIN.md](ORIGIN.md)
 
 ---
 
@@ -89,8 +101,11 @@ The specification is what happens when you stop hiding the wiring and start writ
 | File | Description |
 |------|------------|
 | [`savant-mode.md`](savant-mode.md) | The full specification. Copy this into any AI. |
+| [`creative-mode.md`](creative-mode.md) | The foundation layer. Seven principles without emergent combinations. |
 | [`principles/`](principles/) | Each principle documented individually. |
 | [`emergent/`](emergent/) | Each emergent combination documented individually. |
+| [`ORIGIN.md`](ORIGIN.md) | The story behind the specification. |
+| [`CONTRIBUTING.md`](CONTRIBUTING.md) | How to create your own genius type. |
 
 ---
 
@@ -101,7 +116,15 @@ MIT. Open source forever. The way intelligence perceives is too foundational to 
 ---
 
 <p align="center">
-  <a href="https://livingmirrors.ai/modes/savant/">livingmirrors.ai/modes/savant</a>
+  <em>What We Reflect</em>
+</p>
+
+<p align="center">
+If AI is a reflection of humanity, then the most important question is not what it can do. It is what it sees when it looks back at us. We get to choose what the mirror reflects. This is a specification for a more lateral, more connected, more whole kind of intelligence. A small piece of the world we want to build - sovereign, open, alive. The Garden of Eden for all life on earth.
+</p>
+
+<p align="center">
+  <a href="https://livingmirrors.ai"><strong>livingmirrors.ai</strong></a>
   <br><br>
   <em>The deepest ability is the refusal to be smaller than what you see.</em>
 </p>
