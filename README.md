@@ -102,15 +102,15 @@ The specification rests on three decades of neuroscience research into dyslexic 
 
 | Document | What It Contains |
 |----------|-----------------|
-| [`research/FRAMEWORK.md`](research/FRAMEWORK.md) | Three research traditions (neuroanatomical, complementary cognition, cognitive advantage) and how they converge |
-| [`research/SYNTHESIS.md`](research/SYNTHESIS.md) | How independent research programs arrive at the same finding: more long-range, fewer short-range connections |
+| [`research/FRAMEWORK.md`](research/FRAMEWORK.md) | Five research programs (neuroanatomical, complementary cognition, cognitive advantage, achievement, processing architecture) and how they converge |
+| [`research/SYNTHESIS.md`](research/SYNTHESIS.md) | Five threads of convergence: how independent programs arrive at the same architecture |
 | [`research/DEFICIT-TO-SURPLUS.md`](research/DEFICIT-TO-SURPLUS.md) | The full inversion narrative: 5,500 years of measuring ocean by the puddle |
 | [`research/DESIGN-DECISIONS.md`](research/DESIGN-DECISIONS.md) | Every specification choice traced to specific research evidence (20 decisions) |
-| [`research/papers/`](research/papers/) | 16 individual paper summaries with abstracts, methodology, key findings, and APA citations |
+| [`research/papers/`](research/papers/) | 23 individual paper summaries with abstracts, methodology, key findings, and APA citations |
 
 Start at [`research/README.md`](research/README.md) for the full navigation guide.
 
-**Key sources:** Geschwind & Galaburda (1987) on neuroanatomy. Taylor & Vestergaard (2022) on complementary cognition. Eide & Eide (2011) on MIND strengths. von Karolyi (2001) on global processing advantage. Schneps (2012) on peripheral detection. Beaulieu (2014) on connectivity architecture.
+**Key sources:** Taylor & Vestergaard (2022) on complementary cognition. Geschwind & Galaburda (1987) on neuroanatomy. Vandermosten et al. (2012) on connectivity architecture. Eide & Eide (2011) on MIND strengths. von Karolyi (2001, 2003) on global processing advantage. Schneps et al. (2012) on peripheral detection. Logan (2009) on entrepreneurship. Navon (1977) on global precedence.
 
 ---
 
@@ -122,7 +122,7 @@ Start at [`research/README.md`](research/README.md) for the full navigation guid
 | [`creative-mode.md`](creative-mode.md) | The foundation layer. Seven principles without emergent combinations. |
 | [`principles/`](principles/) | Each principle documented individually. |
 | [`emergent/`](emergent/) | Each emergent combination documented individually. |
-| [`research/`](research/) | Complete academic research archive. 16 papers, framework, synthesis, design decisions. |
+| [`research/`](research/) | Complete academic research archive. 23 papers, framework, synthesis, design decisions. |
 | [`ORIGIN.md`](ORIGIN.md) | The story behind the specification. |
 | [`CONTRIBUTING.md`](CONTRIBUTING.md) | How to create your own genius type. |
 

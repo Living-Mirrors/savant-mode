@@ -1,6 +1,6 @@
 # Paper Index
 
-*16 papers and books documenting the cognitive architecture behind Savant Mode. Each file is self-contained with abstract, methodology, key findings, and relevance to the specification.*
+*23 papers and books documenting the cognitive architecture behind Savant Mode. Each file is self-contained with abstract, methodology, key findings, and relevance to the specification.*
 
 ---
 
@@ -11,7 +11,7 @@
 | File | Author(s) | Year | Key Contribution |
 |------|-----------|------|------------------|
 | [taylor-vestergaard-2022.md](taylor-vestergaard-2022.md) | Helen Taylor & Martin David Vestergaard | 2022 | Complementary Cognition theory: dyslexia as cognitive specialization for exploration |
-| [taylor-2022-evolutionary.md](taylor-2022-evolutionary.md) | Helen Taylor | 2022 | Evolutionary perspective on creativity and dyslexia at Cambridge |
+| [taylor-2022.md](taylor-2022.md) | Helen Taylor | 2022 | Evolutionary perspective on creativity and dyslexia at Cambridge |
 
 ### Neuroanatomy & Connectivity
 
@@ -51,6 +51,18 @@
 |------|-----------|------|------------------|
 | [martindale-1995.md](martindale-1995.md) | Colin Martindale | 1995 | Defocused attention, flat associative hierarchies, and creative cognition |
 | [gilger-kaplan-2001.md](gilger-kaplan-2001.md) | Jeffrey W. Gilger & Bonnie J. Kaplan | 2001 | Atypical brain development as different, not deficient |
+
+### Additional Supporting Sources
+
+| File | Author(s) | Year | Key Contribution |
+|------|-----------|------|------------------|
+| [beaulieu-2014.md](beaulieu-2014.md) | Christian Beaulieu et al. | 2014 | DTI connectivity architecture in dyslexia |
+| [cancer-luck-2020.md](cancer-luck-2020.md) | Alice Cancer & Alessandro Antonietti | 2020 | Creativity and dyslexia: systematic review (Cambridge Handbook) |
+| [everatt-1999.md](everatt-1999.md) | John Everatt et al. | 1999 | Incidence of Stroop interference in dyslexia |
+| [gilger-allen-castillo-2016.md](gilger-allen-castillo-2016.md) | Jeffrey W. Gilger, Kristina Allen, Arnulfo Castillo | 2016 | Enhanced dynamic spatial reasoning in reading disability |
+| [klingberg-2000.md](klingberg-2000.md) | Torkel Klingberg et al. | 2000 | Microstructure of temporoparietal white matter in dyslexia |
+| [shaywitz-2003.md](shaywitz-2003.md) | Sally Shaywitz | 2003 | Overcoming Dyslexia: comprehensive clinical synthesis |
+| [west-1997.md](west-1997.md) | Thomas G. West | 1997 | In the Mind's Eye: visual thinkers and dyslexic achievers |
 
 ---
 

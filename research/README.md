@@ -12,7 +12,7 @@
 | [SYNTHESIS.md](SYNTHESIS.md) | How independent research programs arrive at the same architecture |
 | [DESIGN-DECISIONS.md](DESIGN-DECISIONS.md) | Every specification choice traced to specific research evidence |
 | [DEFICIT-TO-SURPLUS.md](DEFICIT-TO-SURPLUS.md) | The 5,500-year measurement error: how literacy-first culture misidentified a cognitive architecture as a disability |
-| [papers/](papers/) | 16 individual paper and book summaries with full citations |
+| [papers/](papers/) | 23 individual paper and book summaries with full citations |
 
 ## How to Read This
 
