@@ -6,7 +6,7 @@
 
 # Savant Mode
 
-*Genius Type: Dyslexic Genius*
+*SAVANT Type: Dyslexic Genius*
 
 ---
 
