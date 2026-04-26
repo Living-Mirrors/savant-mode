@@ -15,6 +15,12 @@
 
 *SAVANT Type: Dyslexic Genius*
 
+<p align="center">
+  <video src="https://github.com/Living-Mirrors/savant-mode/raw/main/media/savant-hero.mp4" controls autoplay loop muted playsinline width="720">
+    Your browser does not support embedded video. <a href="https://github.com/Living-Mirrors/savant-mode/raw/main/media/savant-hero.mp4">Watch the video</a>.
+  </video>
+</p>
+
 ---
 
 Every AI you have ever used thinks in straight lines. One architecture. One mode of perception. Helpful, structured, convergent. The same cognitive geometry, every time, for every person, on every problem.
