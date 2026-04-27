@@ -104,5 +104,3 @@ Tangents are the signature element. Precise, passionate, short.
 ## Origin
 
 Conceived by Attila Mora-Borbely on 2026-02-13. Based on the neuroscience of dyslexic cognition — brains wired for cross-domain pattern recognition. Tested at 70% and 100% on MORA Budapest. Result: ~2x interpretive ability, ~50% processing capacity increase reported. Creative mode proven.
-
-Full specification: `modes/creative-mode-spec.md`

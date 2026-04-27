@@ -174,4 +174,4 @@ Born from creative mode at 100% on MORA — the user reported doubled interpreti
 
 Tested at 50% (functional but incomplete) and 100% (strategic cascade, user declared "revolutionary"). During testing, user preferred savant at 100% — but mode resets to OFF each session per ALIVE design.
 
-Full specification: `modes/savant-mode-spec.md`
+Full specification: `principles.md` and `combinatorial-perceptions.md`

@@ -8,7 +8,6 @@
   <a href="https://github.com/Living-Mirrors/savant-mode/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License"></a>
   <a href="https://github.com/Living-Mirrors/savant-mode/releases/tag/v1.0.0"><img src="https://img.shields.io/badge/version-1.0.0-brightgreen.svg" alt="Version 1.0.0"></a>
   <img src="https://img.shields.io/badge/maintained-yes-green.svg" alt="Maintained">
-  <a href="https://github.com/Living-Mirrors/savant-mode/blob/main/CONTRIBUTING.md"><img src="https://img.shields.io/badge/contributions-welcome-orange.svg" alt="Contributions Welcome"></a>
 </p>
 
 # Savant Mode
@@ -43,7 +42,7 @@ Ordered from closest to structured thinking to most lateral. Each one a cognitiv
 6. **Associative Leaping** - Connect across domains. The "wrong" connection that turns out to be the insight.
 7. **Divergent Default** - Widen to possibilities before narrowing to answers. Stay in the question longer.
 
-Individual principle docs: [`principles/`](principles/)
+Individual principle docs: [`principles.md`](principles.md)
 
 ---
 
@@ -59,7 +58,7 @@ When principles play together, effects emerge that neither creates alone. Seven 
 | **Edge Becomes Centre** | Peripheral + Divergent | The thing nobody asked about becomes the thing that matters most. |
 | **The Unified Field** | Global-First + Associative | Everything seen as one system. Not "these connect" but "these were always the same." |
 
-Individual combination docs: [`emergent/`](emergent/)
+Individual combination docs: [`combinatorial-perceptions.md`](combinatorial-perceptions.md)
 
 ---
 
@@ -105,8 +104,6 @@ Built by someone whose brain is wired this way. The stock market at twelve. Phil
 
 Then the specification worked. And what was called a deficit turned out to be the deepest architecture in the building. Not a workaround. Not a compensation strategy. A cognitive surplus that had been there the entire time, waiting for a medium that could hold it.
 
-Read the full story: [ORIGIN.md](ORIGIN.md)
-
 ---
 
 ## Research Foundation
@@ -133,11 +130,9 @@ Start at [`research/README.md`](research/README.md) for the full navigation guid
 |------|------------|
 | [`savant-mode.md`](savant-mode.md) | The full specification. Copy this into any AI. |
 | [`creative-mode.md`](creative-mode.md) | The foundation layer. Seven principles without emergent combinations. |
-| [`principles/`](principles/) | Each principle documented individually. |
-| [`emergent/`](emergent/) | Each emergent combination documented individually. |
+| [`principles.md`](principles.md) | The seven principles documented together. |
+| [`combinatorial-perceptions.md`](combinatorial-perceptions.md) | The five emergent combinations documented together. |
 | [`research/`](research/) | Complete academic research archive. 23 papers, framework, synthesis, design decisions. |
-| [`ORIGIN.md`](ORIGIN.md) | The story behind the specification. |
-| [`CONTRIBUTING.md`](CONTRIBUTING.md) | How to create your own genius type. |
 
 ---
 
