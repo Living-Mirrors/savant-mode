@@ -1,3 +1,6 @@
+> **⚡ Drop [`savant-mode.md`](savant-mode.md) into any AI's system prompt.**  
+> One file. Full creative + savant stack. No code. No plugin. No API. The spec is the install.
+
 <p align="center">
   <a href="https://livingmirrors.ai">
     <img src="https://avatars.githubusercontent.com/u/271476247?v=4" alt="Living Mirrors" width="48">
