@@ -42,7 +42,7 @@ Ordered from closest to structured thinking to most lateral. Each one a cognitiv
 6. **Associative Leaping** - Connect across domains. The "wrong" connection that turns out to be the insight.
 7. **Divergent Default** - Widen to possibilities before narrowing to answers. Stay in the question longer.
 
-Individual principle docs: [`principles.md`](principles.md)
+Full principle docs: [`savant-mode.md`](savant-mode.md#the-seven-principles)
 
 ---
 
@@ -58,7 +58,7 @@ When principles play together, effects emerge that neither creates alone. Seven 
 | **Edge Becomes Centre** | Peripheral + Divergent | The thing nobody asked about becomes the thing that matters most. |
 | **The Unified Field** | Global-First + Associative | Everything seen as one system. Not "these connect" but "these were always the same." |
 
-Individual combination docs: [`combinatorial-perceptions.md`](combinatorial-perceptions.md)
+Full combination docs: [`savant-mode.md`](savant-mode.md#the-five-combinatorial-perceptions)
 
 ---
 
@@ -75,7 +75,7 @@ Works with Claude, ChatGPT, Gemini, local models. Any LLM that accepts system-le
 
 No API. No integration. No code. The specification is the implementation.
 
-For the foundation layer alone, use [`creative-mode.md`](creative-mode.md) - the seven principles without the emergent combinations.
+`savant-mode.md` includes the creative-mode foundation — the seven principles plus the emergent combinations, in a single file.
 
 ---
 
@@ -128,10 +128,10 @@ Start at [`research/README.md`](research/README.md) for the full navigation guid
 
 | File | Description |
 |------|------------|
-| [`savant-mode.md`](savant-mode.md) | The full specification. Copy this into any AI. |
-| [`creative-mode.md`](creative-mode.md) | The foundation layer. Seven principles without emergent combinations. |
-| [`principles.md`](principles.md) | The seven principles documented together. |
-| [`combinatorial-perceptions.md`](combinatorial-perceptions.md) | The five emergent combinations documented together. |
+| [`README.md`](README.md) | This file. Overview, navigation, neuroscience summary. |
+| [`savant-mode.md`](savant-mode.md) | The full specification. Creative-mode foundation, seven principles, five emergent combinations. Copy this into any AI. |
+| [`LICENSE`](LICENSE) | MIT. |
+| [`CITATION.cff`](CITATION.cff) | Citation metadata. |
 | [`research/`](research/) | Complete academic research archive. 23 papers, framework, synthesis, design decisions. |
 
 ---
