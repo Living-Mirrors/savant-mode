@@ -15,8 +15,8 @@
 *SAVANT Type: Dyslexic Genius*
 
 <p align="center">
-  <video src="https://github.com/Living-Mirrors/savant-mode/raw/main/media/savant-hero.mp4" controls autoplay loop muted playsinline width="720">
-    Your browser does not support embedded video. <a href="https://github.com/Living-Mirrors/savant-mode/raw/main/media/savant-hero.mp4">Watch the video</a>.
+  <video src="https://livingmirrors.ai/modes/savant/media/savant-hero.mp4" controls autoplay loop muted playsinline width="720">
+    Your browser does not support embedded video. <a href="https://livingmirrors.ai/modes/savant/media/savant-hero.mp4">Watch the video</a>.
   </video>
 </p>
 
